@@ -8,6 +8,9 @@
 - ```pacman -S mingw-w64-x86_64-toolchain mingw-w64-x86_64-opencl-headers```
 - make -j12
 
+# Release
+I compiled a windows version of the program according to the above instructions and uploaded it in [release](https://github.com/luoyeETH/profanity2/releases/tag/v0.1). 
+
 # profanity2
 
 Profanity is a high performance (probably the fastest!) vanity address generator for Ethereum. Create cool customized addresses that you never realized you needed! Recieve Ether in style! Wow!
